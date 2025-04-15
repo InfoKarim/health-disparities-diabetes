@@ -64,8 +64,9 @@ health-disparities-diabetes/
 
 ## 🌐 Contact
 
-- **Email:** [info.karimelsayed@gmail.com](mailto:info.karimelsayed@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/karim-elsayed](https://www.linkedin.com/in/karim-elsayed-b6791011a/)  
+- 📧Email:** [info.karimelsayed@gmail.com](mailto:info.karimelsayed@gmail.com)  
+- LinkedIn:** [linkedin.com/in/karim-elsayed](https://www.linkedin.com/in/karim-elsayed-b6791011a/)
+- 🔗 [GitHub](https://github.com/InfoKarim) 
 - **Portfolio Website:** *Coming Soon*
 
 ---
